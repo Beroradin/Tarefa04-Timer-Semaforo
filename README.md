@@ -31,6 +31,14 @@ O funcionamento do temporizador ocorre por meio da API de Hardware *add_repeatin
 - O temporizador muda o estado dos LEDs a cada 3 segundos;
 - O loop principal printa e incrementa um inteiro a cada 1 segundo.
 
+## 🧮 Simulação do projeto
+
+- É necessário ter o VScode instalado
+- É necessário ter o C/C++ e CMAKE instalados como extensão VScode
+- É necessário ter o Wokwi Simulator instalado como extensão do VScode e uma chave ativa
+- É necessário compilar o arquivo.c por meio da extensão oficial do Raspberry Pi Pico
+- Utilize o arquivo diagram.json para rodar a simulação
+
 ## :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
 <p align="center">
   <img src=".github/semaforo.gif" alt="GIF" width="527px" />
