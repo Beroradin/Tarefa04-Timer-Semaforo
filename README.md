@@ -33,5 +33,5 @@ O funcionamento do temporizador ocorre por meio da API de Hardware *add_repeatin
 
 ## :camera: GIF mostrando o funcionamento do programa na placa BitDogLab
 <p align="center">
-  <img src=".github/semaforo.gif" alt="GIF" width="600px" />
+  <img src=".github/semaforo.gif" alt="GIF" width="527px" />
 </p>
